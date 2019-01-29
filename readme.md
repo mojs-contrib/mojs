@@ -2,7 +2,7 @@
 
 <img width="410" src="https://github.com/legomushroom/mojs/blob/master/motion-for-the-web-3.png?raw=true" alt="large mojs logo" />
 
-#### motion graphics toolbelt for the web [[mojs.io](http://mojs.io/)]
+#### motion graphics toolbelt for the web
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/legomushroom.svg)](https://saucelabs.com/u/legomushroom)
 
@@ -29,9 +29,9 @@
   - [Simple Ripple](http://codepen.io/sol0mka/full/XKdWJg/) (click to see)
 
 ## Tutorials
-  - [Shape & Swirl](http://mojs.io/tutorials/shape/)
-  - [Burst](http://mojs.io/tutorials/burst/)
-  - [Path Easing](http://mojs.io/tutorials/easing/path-easing/)
+  - Shape & Swirl (broken link) [API/shape](/api/shape.md)
+  - Burst (broken link) [API/burst](/api/burst.md)
+  - Path Easing (broken link) [API/easing/path-easing](/api/easing/path-easing.md)
   - [Icon Animations Powered by mo.js](http://tympanus.net/codrops/2016/02/23/icon-animations-powered-by-mo-js/)
 
 ## Docs
