@@ -29,6 +29,7 @@
   - [Simple Ripple](https://codepen.io/sol0mka/full/XKdWJg/) (click to see)
 
 ## Tutorials
+
   - Shape & Swirl (broken link) [API/shape](/api/shape.md)
   - Burst (broken link) [API/burst](/api/burst.md)
   - Path Easing (broken link) [API/easing/path-easing](/api/easing/path-easing.md)
@@ -37,9 +38,11 @@
   - [Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI) *[Video]*
 
 ## Docs
+
   - [Reference](https://github.com/legomushroom/mojs/blob/master/api/readme.md)
 
 ## Tools
+
   - [MojsPlayer](https://github.com/legomushroom/mojs-player)
   - [MojsCurveEditor](https://github.com/legomushroom/mojs-curve-editor)
   - [Video with MojsPlayer and MojsCurveEditor](https://vimeo.com/185587462)
@@ -53,9 +56,11 @@ cdn: `<script src="https://cdn.jsdelivr.net/npm/mo-js@latest/build/mo.min.js"></
 bower: `bower install mojs`
 
 ## Notes
+
 Working hard on `APIs`, `tutorials` and `website`. Follow [@legomushroom](https://twitter.com/legomushroom) for updates. Star to show your interest.
 
 ## Target browsers
+
 - Chrome 4+
 - Firefox 4+
 - Opera 11.5+
@@ -71,15 +76,3 @@ Kudos to supporters on [Patreon](https://patreon.com/user?u=3219311&utm_medium=s
 - [Jorge Antunes](https://github.com/stoikerty)
 
 [full list of mojs patrons](./patrons.md)
-
-## License
-
-(The MIT License)
-
-Copyright (c) Oleg Solomka [@LegoMushroom](https://twitter.com/legomushroom) [legomushroom@gmail.com](mailto:legomushroom@gmail.com)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
