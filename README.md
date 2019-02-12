@@ -32,8 +32,8 @@ The motion graphics toolbelt for the web.
 - [An Introduction to mo.js, by Sarah Drasner](https://css-tricks.com/introduction-mo-js/)
 - [Web Animations and Mo.js with Sarah Drasner](https://www.youtube.com/watch?v=yRxWa8lXasI) *[Video]*
 
-## Docs
-- [Reference](https://github.com/legomushroom/mojs/blob/master/api/readme.md)
+## Documentation
+- [Reference](/api)
 
 ## Tools
 - [MojsPlayer](https://github.com/legomushroom/mojs-player)
