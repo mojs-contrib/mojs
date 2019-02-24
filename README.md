@@ -3,6 +3,13 @@ The motion graphics toolbelt for the web.
 
 ![mo · js](logo.png "mo · js")
 
+## What's new?
+This is the official repository of `mojs` since the official owner has decided to [drop support](https://twitter.com/legomushroom/status/1056990310218133504) on the original project. Please **star the repo to show your interest** and read the [project guidelines](GUIDELINE.md) to know a bit more about what is planning!
+
+The team of contributors is still under construction and **we are still waiting for "pros" to join**: give a smile and say hello on the Slack **mojs-contrib** workspace. Note that this project is supported in the spare time of most contributors: we will do our best to make mojs sparkle again! :tada:
+
+> Join the discussion on Slack [mojs-contrib workspace](https://join.slack.com/t/mojs-contrib/shared_invite/enQtNTQwNDg2NTgyNDg3LWExZjQ1MGMzOThjYzg1Njk5MThlYzcxZTMyM2NlYmJmNGYxM2U3ZTAyMDUzMWVlZWU2ZjBkYmFkMDU3ZmNkNjE)
+
 ## Demos
 - [Motion Graphics for the Web](https://codepen.io/sol0mka/full/ogOYJj/)
 - [Bubble Layout](https://codepen.io/sol0mka/full/yNOage/)
